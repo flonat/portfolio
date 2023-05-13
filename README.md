@@ -1,2 +1,2 @@
-# ut-austin-pg-dsba
-UT Austin Post-Graduate Program Data Science Business Analytics
+# portfolio
+Portfolio of Projects carried out in Business Analytics
